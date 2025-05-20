@@ -128,7 +128,7 @@ export default function Home() {
               Chers clients et partenaires, bienvenue sur notre site vitrine. Chez Jolof Taxi,
               notre priorité est de vous offrir un service de transport exceptionnel, fiable et confortable.
               Notre flotte de véhicules de qualité et nos chauffeurs professionnels sont dédiés à rendre
-              chaque trajet agréable et sûr. Nous nous efforçons constamment d'innover pour mieux vous servir.
+              chaque trajet agréable et sûr. Nous nous efforçons constamment d&apos;innover pour mieux vous servir.
               Merci pour votre confiance et votre fidélité.
             </p>
           </div>
@@ -192,7 +192,7 @@ export default function Home() {
               <p className="text-black text-sm leading-relaxed">
                 JOLOF TAXI est une application mobile innovante de VTC conçue exclusivement pour les taxis sénégalais.
                 Développée avec le support technique de SUBITO INTERNATIONAL, elle vise à intégrer les chauffeurs traditionnels
-                dans l’économie numérique.
+                dans l&apos;économie numérique.
               </p>
             </div>
           </div>
@@ -206,7 +206,7 @@ export default function Home() {
             <div className="p-6">
               <h5 className="text-xl font-bold mb-2">YEESAL</h5>
               <p className="text-black text-sm leading-relaxed">
-                YEESAL facilite l’accès à la propriété de taxis sans apport initial. 
+                YEESAL facilite l&apos;accès à la propriété de taxis sans apport initial. 
                 Ce programme propose un modèle de financement innovant et durable, 
                 impliquant les banques dans la transformation de la mobilité urbaine au Sénégal.
               </p>
